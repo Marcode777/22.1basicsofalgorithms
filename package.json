@@ -1,0 +1,22 @@
+{
+  "name": "22.1basicsofalgorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binarysearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcode777/22.1basicsofalgorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcode777/22.1basicsofalgorithms/issues"
+  },
+  "homepage": "https://github.com/Marcode777/22.1basicsofalgorithms#readme",
+  "dependencies": {
+    "iron-node": "^2.2.16"
+  }
+}
